@@ -1,7 +1,7 @@
 {
-  "version": "4.2.0",
-  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.2.0/a-round-Version-4.2.0-macOS.zip",
-  "sha256": "dea84d6ccf31f732ebe99c56576f5dee5c389a7ebaaec81ecd17bbf4b0fd541e",
+  "version": "4.2.1",
+  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.2.1/a-round-Version-4.2.1-macOS.zip",
+  "sha256": "383b620cf71d992b92d768162ad3e23ae2fbf1b577b2d0d25844bb4ae4b18d9b",
   "releaseNotes": [
     "16:9-timelines bruger det opdaterede native subtitle-preset",
     "Appen kontrollerer automatisk for nye versioner ved opstart og hver fjerde time",
@@ -14,7 +14,8 @@
     "Senere udsætter påmindelsen i 24 timer uden at skjule næste nye version",
     "Opdateringssiden viser installeret version og tidspunktet for seneste kontrol",
     "Resolve-kompatibilitet kontrolleres før installation",
-    "Baggrundskontrol venter, hvis appen arbejder med en Resolve-operation"
+    "Baggrundskontrol venter, hvis appen arbejder med en Resolve-operation",
+    "Det automatiske popup-, badge- og påmindelsesflow er verificeret ende til ende"
   ],
   "minimumResolveVersion": "21.0"
 }
