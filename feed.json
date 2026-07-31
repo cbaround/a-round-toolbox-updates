@@ -1,10 +1,11 @@
 {
-  "version": "4.3.1",
-  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.3.1/a-round-Version-4.3.1-macOS.zip",
-  "sha256": "3575f5829090519ff4a9de0b875502395903f8cdab8172744e86d83b238f6e2d",
-  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.3.1/a-round-Toolbox-4.3.1.pkg",
-  "desktopSha256": "91ef5835fe5c7cd01f892953f5dc062cc28b5292e775b731fec7e02a151d7cd6",
+  "version": "4.3.2",
+  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.3.2/a-round-Version-4.3.2-macOS.zip",
+  "sha256": "1d4ff93370cf70a1402bc757ecaeedec33148187f9f770ae3116d7ce0647e43a",
+  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.3.2/a-round-Toolbox-4.3.2.pkg",
+  "desktopSha256": "e2135ba0a6a4cdba167bdbfc3cceaf15c0e8e0ababc0cff404e7727f4bcbca08",
   "releaseNotes": [
+    "Det nye Toolbox-ikon bruges nu både i Dock, Finder, macOS-menulinjen og inde i appen",
     "Updateren genkender nu den installerede desktop-app fra Resolves vinduesløse værtsproces og opdaterer altid både app og bridge",
     "a-round Toolbox er nu en selvstændig, universel og Apple-notariseret macOS-app med eget navn, logo og menulinje",
     "Resolve starter en vinduesløs, lokal bridge, så kun den brandede a-round-app vises",
