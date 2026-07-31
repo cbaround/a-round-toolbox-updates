@@ -1,7 +1,7 @@
 {
-  "version": "4.1.4",
-  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.1.4/a-round-Version-4.1.4-macOS.zip",
-  "sha256": "1a0fe69abe569d6060041efb813d6722c208f8502a5e67113fc60a76419ee86e",
+  "version": "4.1.5",
+  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.1.5/a-round-Version-4.1.5-macOS.zip",
+  "sha256": "e397d9a3900e7a3f6f31529016b49e37aed78c0c5fa1d427559202a46a8ac0f6",
   "releaseNotes": [
     "16:9-timelines bruger det opdaterede native subtitle-preset",
     "Appen kan finde og installere nye versioner direkte fra Opdateringer",
@@ -9,7 +9,8 @@
     "Administratorinstallerede plugins opdateres via macOS' sikre administratorprompt",
     "Resolves lokale WorkflowIntegration-modul bevares for maksimal kompatibilitet",
     "En mislykket installation gendanner automatisk den tidligere version",
-    "Netværks-timeouts forhindrer, at et offline update-feed låser appen"
+    "Netværks-timeouts forhindrer, at et offline update-feed låser appen",
+    "Opdateringssiden kontrollerer automatisk feedet og viser en tydelig fejl ved netværksproblemer"
   ],
   "minimumResolveVersion": "21.0"
 }
