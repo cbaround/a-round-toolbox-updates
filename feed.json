@@ -1,12 +1,11 @@
 {
-  "version": "4.7.6",
-  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.6/a-round-Version-4.7.6-macOS.zip",
-  "sha256": "de5f70b18e2c0ed3825e31f15d0d7f99b4314fc313ab237691b44069ccde779c",
-  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.6/a-round-Toolbox-4.7.6.pkg",
-  "desktopSha256": "5edba699ff484a7cc6a4196bdd64967976377d87064f24cbf358d000be6aa286",
+  "version": "4.7.7",
+  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.7/a-round-Version-4.7.7-macOS.zip",
+  "sha256": "64ecc8c1734ef15ce2aa2d3f86f0a7614fc4d5be2c4cb071329f9663d8e0dbed",
+  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.7/a-round-Toolbox-4.7.7.pkg",
+  "desktopSha256": "d53f7370d9825ec309f955a1645495006e02f4a27924718cf8f32b940529c2e1",
   "releaseNotes": [
-    "Opdateringspakken låser nu Toolbox til /Applications, så PackageKit ikke flytter appen til backupmappen under installationen",
-    "Versionskontrollen afsluttes nu korrekt efter en passwordfri opdatering uden den falske fejl om et uventet versionsnummer"
+    "Skillelinjen under Miljø er fjernet fra Aktuelt projekt, så overgangen til Aktive indstillinger står renere"
   ],
   "minimumResolveVersion": "21.0"
 }
