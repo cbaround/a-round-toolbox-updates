@@ -1,12 +1,14 @@
 {
-  "version": "4.7.3",
-  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.3/a-round-Version-4.7.3-macOS.zip",
-  "sha256": "6b51a4864c83dcb44d2bfbd4d798713436a9fc1d7e0390bb44a17cdaea56e820",
-  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.3/a-round-Toolbox-4.7.3.pkg",
-  "desktopSha256": "078965bea1d37aebff123953922e20bd23df5e84b74f84f2cd9f97c8b9ebd96e",
+  "version": "4.7.4",
+  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.4/a-round-Version-4.7.4-macOS.zip",
+  "sha256": "a9abe87b4602189b03a20c0ce1c6d19c3e13eaa5edb44e516acba36cf37dfd0e",
+  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.4/a-round-Toolbox-4.7.4.pkg",
+  "desktopSha256": "14f79e019cc52ad71bca15e5b6b6b30282c4dbd5d2c5fca6ce6f65154abec2e6",
   "releaseNotes": [
-    "Toolbox genstarter nu automatisk efter en vellykket desktop-opdatering, så den nye version indlæses med det samme",
-    "Opdatering direkte fra Resolve beholder den sikre manuelle genstartsbesked"
+    "Den passwordfri macOS-opdatering fungerer nu stabilt mellem versioner og aktiverer den nye Toolbox-version med det samme",
+    "Opdateringshjælperen lader nu macOS udskifte appen atomisk og beholder samtidig en sikker rollback-kopi",
+    "CSS-undertekster hedder nu Undertekst design i navigation og overskrifter",
+    "Alle sider bruger nu én ensartet overskrift uden ekstra a-round workflow-etiketter"
   ],
   "minimumResolveVersion": "21.0"
 }
