@@ -1,15 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-03T16:30:00.000Z",
+  "updatedAt": "2026-08-03T20:00:00.000Z",
   "items": [
-    {
-      "id": "passwordless-updater",
-      "title": "Opdateringer uden gentagen administratorkode",
-      "description": "En signeret og stærkt begrænset macOS-hjælper, der verificerer Team ID, pakke, checksum og installationsmål før opdatering.",
-      "status": "in_progress",
-      "targetVersion": "4.6.0",
-      "updatedAt": "2026-08-03T16:30:00.000Z"
-    },
     {
       "id": "cloud-regression-suite",
       "title": "Automatisk Cloud-kompatibilitetstest",
