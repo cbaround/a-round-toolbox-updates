@@ -2,6 +2,19 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "4.7.0",
+      "publishedAt": "2026-08-03T19:08:23.000Z",
+      "title": "a-round Version 4.7.0",
+      "releaseNotes": [
+        "Ny CSS-underteksteditor med live preview, genbrugelige presets og 16:9/9:16-forhåndsvisning",
+        "CSS-presets gemmes nu i Toolbox-indstillingerne og kan forbindes til en kalibreret native subtitle-profil i Resolve",
+        "Social timelines har fået et nyt kontroltrin med navn, opløsning, subtitle-profil og status for hvert valgt format",
+        "Kontrolrammer kan forhåndsvises før oprettelse og fjernes sikkert, når render queue skal klargøres",
+        "Native subtitle-stil anvendes gennem en verificeret DRT-rundtur med rollback og backup, hvis Resolve afviser et trin"
+      ],
+      "releaseUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/tag/v4.7.0"
+    },
+    {
       "version": "4.6.0",
       "publishedAt": "2026-08-03T18:15:56.000Z",
       "title": "a-round Version 4.6.0",
