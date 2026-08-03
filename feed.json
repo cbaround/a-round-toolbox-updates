@@ -1,14 +1,12 @@
 {
-  "version": "4.7.4",
-  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.4/a-round-Version-4.7.4-macOS.zip",
-  "sha256": "a9abe87b4602189b03a20c0ce1c6d19c3e13eaa5edb44e516acba36cf37dfd0e",
-  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.4/a-round-Toolbox-4.7.4.pkg",
-  "desktopSha256": "14f79e019cc52ad71bca15e5b6b6b30282c4dbd5d2c5fca6ce6f65154abec2e6",
+  "version": "4.7.5",
+  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.5/a-round-Version-4.7.5-macOS.zip",
+  "sha256": "4267f9a4b71f3b5f4e0db86e74a275317ec09378da5f1ede3450c443affb8af2",
+  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.5/a-round-Toolbox-4.7.5.pkg",
+  "desktopSha256": "0c66718a18af8a89057546b92bb9763bb761793588402f3ef392fa69e83e4220",
   "releaseNotes": [
-    "Den passwordfri macOS-opdatering fungerer nu stabilt mellem versioner og aktiverer den nye Toolbox-version med det samme",
-    "Opdateringshjælperen lader nu macOS udskifte appen atomisk og beholder samtidig en sikker rollback-kopi",
-    "CSS-undertekster hedder nu Undertekst design i navigation og overskrifter",
-    "Alle sider bruger nu én ensartet overskrift uden ekstra a-round workflow-etiketter"
+    "Versionsnummer og opdateringskontrol vises nu kun på Overblik, så de øvrige sidehoveder er mere rolige",
+    "Toolbox åbner nu som standard i 1409 × 1225 px og tilpasser fortsat højden sikkert på mindre skærme"
   ],
   "minimumResolveVersion": "21.0"
 }
