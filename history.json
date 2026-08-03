@@ -2,6 +2,17 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "4.7.1",
+      "publishedAt": "2026-08-03T19:19:03.000Z",
+      "title": "a-round Version 4.7.1",
+      "releaseNotes": [
+        "Den passwordfri opdateringshjælper identificerer nu Toolbox via macOS' sikre socket-audit-token",
+        "Hvis helperens klientkontrol ikke kan gennemføres, falder opdateringen sikkert tilbage til macOS' administratorprompt",
+        "Pakkesignatur, checksum, version og Team ID kontrolleres fortsat før installation"
+      ],
+      "releaseUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/tag/v4.7.1"
+    },
+    {
       "version": "4.7.0",
       "publishedAt": "2026-08-03T19:08:23.000Z",
       "title": "a-round Version 4.7.0",
