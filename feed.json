@@ -1,15 +1,14 @@
 {
-  "version": "4.3.4",
-  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.3.4/a-round-Version-4.3.4-macOS.zip",
-  "sha256": "0604e86172e3a1bacf595e027e987153e7feac6125ac13ee2842b1c4162b367d",
-  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.3.4/a-round-Toolbox-4.3.4.pkg",
-  "desktopSha256": "1d483c83524a58c94b9c33f4bdb35ac60d884a1ae729d9dceecb5aa868129533",
+  "version": "4.3.5",
+  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.3.5/a-round-Version-4.3.5-macOS.zip",
+  "sha256": "5ec4b5cdd00184d01efacc81145fef15c2077ca4e8ff5d3f38cd987e52a9894c",
+  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.3.5/a-round-Toolbox-4.3.5.pkg",
+  "desktopSha256": "6a6629f6a4220d174a511789d752c60a8712657045c166512cf7107f3ea04f57",
   "releaseNotes": [
-    "Cloud-projekter med én timeline aktiverer nu automatisk den timeline",
-    "AI-undertekster viser lydsporene, så snart den valgte timeline er aktiv",
-    "Cloud-projekt og timeline synkroniseres via deres præcise identitet før backend-kald",
-    "Resolve-konteksten opdateres automatisk, når appen får fokus eller der skiftes værktøj",
-    "Meldinger skelner nu tydeligt mellem manglende timeline og en timeline uden lydspor"
+    "AI-lydrender prøves automatisk igen, hvis Resolve Cloud midlertidigt afviser render-jobbet",
+    "Den aktive Cloud-timeline genaktiveres før et nyt renderforsøg",
+    "Render-job-id'er aflæses nu korrekt fra flere Resolve Cloud-svarformater",
+    "Rettelsen er testet med lydrender direkte fra et åbent Blackmagic Cloud-projekt"
   ],
   "minimumResolveVersion": "21.0"
 }
