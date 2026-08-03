@@ -1,12 +1,12 @@
 {
-  "version": "4.7.5",
-  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.5/a-round-Version-4.7.5-macOS.zip",
-  "sha256": "4267f9a4b71f3b5f4e0db86e74a275317ec09378da5f1ede3450c443affb8af2",
-  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.5/a-round-Toolbox-4.7.5.pkg",
-  "desktopSha256": "0c66718a18af8a89057546b92bb9763bb761793588402f3ef392fa69e83e4220",
+  "version": "4.7.6",
+  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.6/a-round-Version-4.7.6-macOS.zip",
+  "sha256": "de5f70b18e2c0ed3825e31f15d0d7f99b4314fc313ab237691b44069ccde779c",
+  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.6/a-round-Toolbox-4.7.6.pkg",
+  "desktopSha256": "5edba699ff484a7cc6a4196bdd64967976377d87064f24cbf358d000be6aa286",
   "releaseNotes": [
-    "Versionsnummer og opdateringskontrol vises nu kun på Overblik, så de øvrige sidehoveder er mere rolige",
-    "Toolbox åbner nu som standard i 1409 × 1225 px og tilpasser fortsat højden sikkert på mindre skærme"
+    "Opdateringspakken låser nu Toolbox til /Applications, så PackageKit ikke flytter appen til backupmappen under installationen",
+    "Versionskontrollen afsluttes nu korrekt efter en passwordfri opdatering uden den falske fejl om et uventet versionsnummer"
   ],
   "minimumResolveVersion": "21.0"
 }
