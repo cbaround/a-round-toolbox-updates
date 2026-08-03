@@ -7,7 +7,7 @@
       "title": "Opdateringer uden gentagen administratorkode",
       "description": "En signeret og stærkt begrænset macOS-hjælper, der verificerer Team ID, pakke, checksum og installationsmål før opdatering.",
       "status": "in_progress",
-      "targetVersion": "4.5.0",
+      "targetVersion": "4.6.0",
       "updatedAt": "2026-08-03T16:30:00.000Z"
     },
     {
@@ -15,7 +15,7 @@
       "title": "Automatisk Cloud-kompatibilitetstest",
       "description": "Faste regressionstests af lydrendering, render queue, timeline-kopiering og projektoprettelse i lokale og Cloud-projekter.",
       "status": "in_progress",
-      "targetVersion": "4.4.1",
+      "targetVersion": "4.6.0",
       "updatedAt": "2026-08-03T16:30:00.000Z"
     },
     {
