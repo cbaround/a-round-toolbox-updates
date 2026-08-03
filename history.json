@@ -2,6 +2,20 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "4.5.0",
+      "publishedAt": "2026-08-03T17:43:50.000Z",
+      "title": "a-round Version 4.5.0",
+      "releaseNotes": [
+        "AI-undertekster har fået et nyt, roligere arbejdsområde med tydeligt timelinevalg, lydsporstabel og en samlet oversigt før transskribering",
+        "AI-undertekstoversigten opdateres nu direkte, når timeline, lydspor, sprog eller spornavn ændres",
+        "Nyt projekt har fået en samlet projektopsætning med bibliotek, strukturforhåndsvisning og tydelig kontrol før oprettelse",
+        "Overblik viser nu Resolve-, OpenAI- og versionsstatus tydeligere sammen med seneste kørsel og aktuelle release-noter",
+        "Navigation, sidehoveder, vinduesstørrelse og genvejen via app-logoet er gjort mere ensartede på tværs af værktøjerne",
+        "Busy-dialogen viser ikke længere den samme statusbesked to gange, og de nye hovedvisninger er dækket af layout- og navigationstests"
+      ],
+      "releaseUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/tag/v4.5.0"
+    },
+    {
       "version": "4.4.0",
       "publishedAt": "2026-08-03T15:32:29.000Z",
       "title": "a-round Version 4.4.0",
