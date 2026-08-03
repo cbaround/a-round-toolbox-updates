@@ -1,15 +1,15 @@
 {
-  "version": "4.3.10",
-  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.3.10/a-round-Version-4.3.10-macOS.zip",
-  "sha256": "943804d492e62b245fe78ee8e2283227e8148a8ac630ea89a17322c19cd51cb3",
-  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.3.10/a-round-Toolbox-4.3.10.pkg",
-  "desktopSha256": "6f0a2a444fc2e16a5880dbfc4edfd44eb64cf057d61f757acc89f04d93657e41",
+  "version": "4.3.11",
+  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.3.11/a-round-Version-4.3.11-macOS.zip",
+  "sha256": "a0893f0656f676a0d10a92c1736240f92e89e45e783c9c6a6fd1025edad35b22",
+  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.3.11/a-round-Toolbox-4.3.11.pkg",
+  "desktopSha256": "c90a00244ccc28a5418e2942068d721337226ebe97c4fa7a249883d8740ae21e",
   "releaseNotes": [
+    "Sidebaren følger nu arbejdsgangen: Overblik, Nyt projekt, AI-undertekster, Social timelines og Exports",
+    "Opdateringer og Indstillinger er samlet i en separat sektion nederst i værktøjsmenuen",
     "Installationen bruger nu altid WorkflowIntegration.node fra den Resolve-version, der er installeret på denne Mac",
-    "Toolbox opdager en forældet Resolve-bro før et værktøj starter og viser en konkret geninstallationsbesked",
     "Reel- og Story-undertekster bruger det korrigerede native 9:16-preset",
-    "Nyt projekt har tidsbegrænset Cloud-synkronisering og stopper med en tydelig fejl i stedet for at hænge",
-    "Projektmotoren er live-testet med UDVALG, EDIT01 samt 4 video- og 8 lydspor"
+    "Nyt projekt har tidsbegrænset Cloud-synkronisering og stopper med en tydelig fejl i stedet for at hænge"
   ],
   "minimumResolveVersion": "21.0"
 }
