@@ -2,6 +2,16 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "4.7.3",
+      "publishedAt": "2026-08-03T19:38:09.000Z",
+      "title": "a-round Version 4.7.3",
+      "releaseNotes": [
+        "Toolbox genstarter nu automatisk efter en vellykket desktop-opdatering, så den nye version indlæses med det samme",
+        "Opdatering direkte fra Resolve beholder den sikre manuelle genstartsbesked"
+      ],
+      "releaseUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/tag/v4.7.3"
+    },
+    {
       "version": "4.7.2",
       "publishedAt": "2026-08-03T19:26:58.000Z",
       "title": "a-round Version 4.7.2",
