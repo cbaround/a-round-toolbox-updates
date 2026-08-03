@@ -1,16 +1,15 @@
 {
-  "version": "4.5.0",
-  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.5.0/a-round-Version-4.5.0-macOS.zip",
-  "sha256": "3a2af058dfc58c5f3c35a3f69e86febd879c427f6d9ad5c5d06fda9033252b77",
-  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.5.0/a-round-Toolbox-4.5.0.pkg",
-  "desktopSha256": "dced3bb871a1a6fe009ea8a5c27afa444a04d01fd6ab8357ae4955c5417cd817",
+  "version": "4.6.0",
+  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.6.0/a-round-Version-4.6.0-macOS.zip",
+  "sha256": "944b705b33e812ece8cca8435d839ba2c75a9abff56030d2fb29370384bfc43b",
+  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.6.0/a-round-Toolbox-4.6.0.pkg",
+  "desktopSha256": "5c8e19ed72c0d1dfbfd888b0f0355a00c9aa487e7734f9c63bfa34366dbfd19e",
   "releaseNotes": [
-    "AI-undertekster har fået et nyt, roligere arbejdsområde med tydeligt timelinevalg, lydsporstabel og en samlet oversigt før transskribering",
-    "AI-undertekstoversigten opdateres nu direkte, når timeline, lydspor, sprog eller spornavn ændres",
-    "Nyt projekt har fået en samlet projektopsætning med bibliotek, strukturforhåndsvisning og tydelig kontrol før oprettelse",
-    "Overblik viser nu Resolve-, OpenAI- og versionsstatus tydeligere sammen med seneste kørsel og aktuelle release-noter",
-    "Navigation, sidehoveder, vinduesstørrelse og genvejen via app-logoet er gjort mere ensartede på tværs af værktøjerne",
-    "Busy-dialogen viser ikke længere den samme statusbesked to gange, og de nye hovedvisninger er dækket af layout- og navigationstests"
+    "En signeret og stærkt begrænset macOS-hjælper gør kommende opdateringer passwordfri efter installationen af denne version",
+    "Hjælperen accepterer kun anmodninger fra den signerede a-round Toolbox og kun nyere pakker med det forventede Team ID og pakke-id",
+    "Checksum, Developer ID-signatur, versionsnummer og installationsresultat verificeres både før og inde i den privilegerede installation",
+    "Den tidligere app og Resolve-integration sikkerhedskopieres og gendannes automatisk, hvis installation eller efterkontrol fejler",
+    "Opdateringscenteret viser, om den passwordfri hjælper er aktiv, og falder sikkert tilbage til macOS' administratorprompt, hvis den mangler"
   ],
   "minimumResolveVersion": "21.0"
 }
