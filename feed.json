@@ -1,14 +1,15 @@
 {
-  "version": "4.3.5",
-  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.3.5/a-round-Version-4.3.5-macOS.zip",
-  "sha256": "5ec4b5cdd00184d01efacc81145fef15c2077ca4e8ff5d3f38cd987e52a9894c",
-  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.3.5/a-round-Toolbox-4.3.5.pkg",
-  "desktopSha256": "6a6629f6a4220d174a511789d752c60a8712657045c166512cf7107f3ea04f57",
+  "version": "4.3.6",
+  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.3.6/a-round-Version-4.3.6-macOS.zip",
+  "sha256": "85347dc54fbb063b6c2aacc8cbb9f3f813f6245aa06487430c28a45b2ea7e845",
+  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.3.6/a-round-Toolbox-4.3.6.pkg",
+  "desktopSha256": "1b807ed5eeb0ca2fb2dd163e1263e91aba57480ade8d078b2cce7b4714d9fbda",
   "releaseNotes": [
     "AI-lydrender prøves automatisk igen, hvis Resolve Cloud midlertidigt afviser render-jobbet",
     "Den aktive Cloud-timeline genaktiveres før et nyt renderforsøg",
     "Render-job-id'er aflæses nu korrekt fra flere Resolve Cloud-svarformater",
-    "Rettelsen er testet med lydrender direkte fra et åbent Blackmagic Cloud-projekt"
+    "Resolve-værten forbliver nu aktiv, når desktop-appen forbinder hurtigt ved opstart",
+    "Rettelserne er testet direkte med et åbent Blackmagic Cloud-projekt"
   ],
   "minimumResolveVersion": "21.0"
 }
