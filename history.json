@@ -2,6 +2,15 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "4.7.2",
+      "publishedAt": "2026-08-03T19:26:58.000Z",
+      "title": "a-round Version 4.7.2",
+      "releaseNotes": [
+        "Statusboksen om den passwordfri opdateringshjælper er fjernet fra Opdateringer for et renere layout"
+      ],
+      "releaseUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/tag/v4.7.2"
+    },
+    {
       "version": "4.7.1",
       "publishedAt": "2026-08-03T19:19:03.000Z",
       "title": "a-round Version 4.7.1",
