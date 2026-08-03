@@ -2,6 +2,18 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "4.7.4",
+      "publishedAt": "2026-08-03T19:54:54.000Z",
+      "title": "a-round Version 4.7.4",
+      "releaseNotes": [
+        "Den passwordfri macOS-opdatering fungerer nu stabilt mellem versioner og aktiverer den nye Toolbox-version med det samme",
+        "Opdateringshjælperen lader nu macOS udskifte appen atomisk og beholder samtidig en sikker rollback-kopi",
+        "CSS-undertekster hedder nu Undertekst design i navigation og overskrifter",
+        "Alle sider bruger nu én ensartet overskrift uden ekstra a-round workflow-etiketter"
+      ],
+      "releaseUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/tag/v4.7.4"
+    },
+    {
       "version": "4.7.3",
       "publishedAt": "2026-08-03T19:38:09.000Z",
       "title": "a-round Version 4.7.3",
