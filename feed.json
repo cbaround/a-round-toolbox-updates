@@ -1,14 +1,15 @@
 {
-  "version": "4.3.3",
-  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.3.3/a-round-Version-4.3.3-macOS.zip",
-  "sha256": "ed51d14a8262975773aa50d351b9dd4ae56ecc46769a6d2e84b84a8b6d6fc1fd",
-  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.3.3/a-round-Toolbox-4.3.3.pkg",
-  "desktopSha256": "6e137089b9aa52dd4bb811d27966089c64ac90a6c60da469176d05ceee753ad6",
+  "version": "4.3.4",
+  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.3.4/a-round-Version-4.3.4-macOS.zip",
+  "sha256": "0604e86172e3a1bacf595e027e987153e7feac6125ac13ee2842b1c4162b367d",
+  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.3.4/a-round-Toolbox-4.3.4.pkg",
+  "desktopSha256": "0d22e0ed4658d617ef5b02c0377aa53b877a772155477c52501a0f046a641b47",
   "releaseNotes": [
-    "Direkte start fra Dock eller Finder hænger ikke længere på ‘Forbinder…’",
-    "Appen viser den præcise menuvej, når Resolve-integrationen mangler",
-    "Forbindelsen prøves automatisk igen og etableres uden genstart, når Workflow Integration åbnes",
-    "Projekt-, timeline- og miljøfelter viser nu en tydelig ventestatus i stedet for at stå på ‘Indlæser…’"
+    "Cloud-projekter med én timeline aktiverer nu automatisk den timeline",
+    "AI-undertekster viser lydsporene, så snart den valgte timeline er aktiv",
+    "Cloud-projekt og timeline synkroniseres via deres præcise identitet før backend-kald",
+    "Resolve-konteksten opdateres automatisk, når appen får fokus eller der skiftes værktøj",
+    "Meldinger skelner nu tydeligt mellem manglende timeline og en timeline uden lydspor"
   ],
   "minimumResolveVersion": "21.0"
 }
