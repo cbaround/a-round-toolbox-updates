@@ -5,11 +5,11 @@
   "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.3.10/a-round-Toolbox-4.3.10.pkg",
   "desktopSha256": "6f0a2a444fc2e16a5880dbfc4edfd44eb64cf057d61f757acc89f04d93657e41",
   "releaseNotes": [
-    "Cloud-projekter kontrollerer nu Resolve-buildet før AI-lyd eller Exports starter",
-    "Resolve 21.0.0.48 får en konkret opdateringsbesked i stedet for en sen render-job-fejl",
-    "AI- og Export-knapper deaktiveres kun for inkompatible Cloud-projekter",
-    "Lokale projekter fortsætter med at virke på Resolve 21.0.0",
-    "Versionssammenligningen understøtter nu hele Resolve-buildnummeret med fire led"
+    "Installationen bruger nu altid WorkflowIntegration.node fra den Resolve-version, der er installeret på denne Mac",
+    "Toolbox opdager en forældet Resolve-bro før et værktøj starter og viser en konkret geninstallationsbesked",
+    "Reel- og Story-undertekster bruger det korrigerede native 9:16-preset",
+    "Nyt projekt har tidsbegrænset Cloud-synkronisering og stopper med en tydelig fejl i stedet for at hænge",
+    "Projektmotoren er live-testet med UDVALG, EDIT01 samt 4 video- og 8 lydspor"
   ],
   "minimumResolveVersion": "21.0"
 }
