@@ -2,6 +2,19 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "4.6.0",
+      "publishedAt": "2026-08-03T18:15:56.000Z",
+      "title": "a-round Version 4.6.0",
+      "releaseNotes": [
+        "En signeret og stærkt begrænset macOS-hjælper gør kommende opdateringer passwordfri efter installationen af denne version",
+        "Hjælperen accepterer kun anmodninger fra den signerede a-round Toolbox og kun nyere pakker med det forventede Team ID og pakke-id",
+        "Checksum, Developer ID-signatur, versionsnummer og installationsresultat verificeres både før og inde i den privilegerede installation",
+        "Den tidligere app og Resolve-integration sikkerhedskopieres og gendannes automatisk, hvis installation eller efterkontrol fejler",
+        "Opdateringscenteret viser, om den passwordfri hjælper er aktiv, og falder sikkert tilbage til macOS' administratorprompt, hvis den mangler"
+      ],
+      "releaseUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/tag/v4.6.0"
+    },
+    {
       "version": "4.5.0",
       "publishedAt": "2026-08-03T17:43:50.000Z",
       "title": "a-round Version 4.5.0",
