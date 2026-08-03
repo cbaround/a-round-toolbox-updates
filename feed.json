@@ -1,15 +1,16 @@
 {
-  "version": "4.3.11",
-  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.3.11/a-round-Version-4.3.11-macOS.zip",
-  "sha256": "a0893f0656f676a0d10a92c1736240f92e89e45e783c9c6a6fd1025edad35b22",
-  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.3.11/a-round-Toolbox-4.3.11.pkg",
-  "desktopSha256": "c90a00244ccc28a5418e2942068d721337226ebe97c4fa7a249883d8740ae21e",
+  "version": "4.4.0",
+  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.4.0/a-round-Version-4.4.0-macOS.zip",
+  "sha256": "0430835ab9c7efd57316782cd0c7493e1ac5afc67d2a9e960a07fc373d3ef588",
+  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.4.0/a-round-Toolbox-4.4.0.pkg",
+  "desktopSha256": "00abe41416c8d0e2fde2eb8d021c606e20ad34debe8a5cf9cd6aa225bb3aa246",
   "releaseNotes": [
-    "Sidebaren følger nu arbejdsgangen: Overblik, Nyt projekt, AI-undertekster, Social timelines og Exports",
-    "Opdateringer og Indstillinger er samlet i en separat sektion nederst i værktøjsmenuen",
-    "Installationen bruger nu altid WorkflowIntegration.node fra den Resolve-version, der er installeret på denne Mac",
-    "Reel- og Story-undertekster bruger det korrigerede native 9:16-preset",
-    "Nyt projekt har tidsbegrænset Cloud-synkronisering og stopper med en tydelig fejl i stedet for at hænge"
+    "Opdateringscenteret har nu separate faner til Seneste, Historik og Roadmap",
+    "Versionshistorikken viser alle publicerede udgivelser med dato, noter og link til den originale release",
+    "Roadmappet hentes separat og kan derfor opdateres uden at udgive en ny app-version",
+    "Historik og roadmap valideres, størrelsesbegrænses og falder tilbage til en inkluderet kopi, hvis nettet er nede",
+    "Publiceringsflowet vedligeholder fremover feed, versionshistorik og roadmap automatisk",
+    "Opdateringskontrollen kører nu altid i desktop-appen, så en ældre åben Resolve-proces ikke kan udløse en fejlagtig nedgradering"
   ],
   "minimumResolveVersion": "21.0"
 }
