@@ -1,13 +1,11 @@
 {
-  "version": "4.7.1",
-  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.1/a-round-Version-4.7.1-macOS.zip",
-  "sha256": "8471955f441e30f1e96550394d40908c06f8a9e10ceb5a741dde19c64ac72352",
-  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.1/a-round-Toolbox-4.7.1.pkg",
-  "desktopSha256": "cd7845640836b171a019bcfc0f842ffdc51bffdd56cdd1e9235c7099df0c822d",
+  "version": "4.7.2",
+  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.2/a-round-Version-4.7.2-macOS.zip",
+  "sha256": "90b7f4291346699c423251f1b9b92f88f8f1b6c234b1b30cd2fd0ff249526975",
+  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.2/a-round-Toolbox-4.7.2.pkg",
+  "desktopSha256": "14b6fb669a9877c74bb27687ca570184edc4cfd3d9874a1d4df6d1e336a12113",
   "releaseNotes": [
-    "Den passwordfri opdateringshjælper identificerer nu Toolbox via macOS' sikre socket-audit-token",
-    "Hvis helperens klientkontrol ikke kan gennemføres, falder opdateringen sikkert tilbage til macOS' administratorprompt",
-    "Pakkesignatur, checksum, version og Team ID kontrolleres fortsat før installation"
+    "Statusboksen om den passwordfri opdateringshjælper er fjernet fra Opdateringer for et renere layout"
   ],
   "minimumResolveVersion": "21.0"
 }
