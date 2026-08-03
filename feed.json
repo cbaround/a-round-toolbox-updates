@@ -1,11 +1,12 @@
 {
-  "version": "4.7.2",
-  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.2/a-round-Version-4.7.2-macOS.zip",
-  "sha256": "90b7f4291346699c423251f1b9b92f88f8f1b6c234b1b30cd2fd0ff249526975",
-  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.2/a-round-Toolbox-4.7.2.pkg",
-  "desktopSha256": "14b6fb669a9877c74bb27687ca570184edc4cfd3d9874a1d4df6d1e336a12113",
+  "version": "4.7.3",
+  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.3/a-round-Version-4.7.3-macOS.zip",
+  "sha256": "6b51a4864c83dcb44d2bfbd4d798713436a9fc1d7e0390bb44a17cdaea56e820",
+  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.3/a-round-Toolbox-4.7.3.pkg",
+  "desktopSha256": "078965bea1d37aebff123953922e20bd23df5e84b74f84f2cd9f97c8b9ebd96e",
   "releaseNotes": [
-    "Statusboksen om den passwordfri opdateringshjælper er fjernet fra Opdateringer for et renere layout"
+    "Toolbox genstarter nu automatisk efter en vellykket desktop-opdatering, så den nye version indlæses med det samme",
+    "Opdatering direkte fra Resolve beholder den sikre manuelle genstartsbesked"
   ],
   "minimumResolveVersion": "21.0"
 }
