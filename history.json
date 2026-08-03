@@ -2,6 +2,16 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "4.7.5",
+      "publishedAt": "2026-08-03T20:11:42.000Z",
+      "title": "a-round Version 4.7.5",
+      "releaseNotes": [
+        "Versionsnummer og opdateringskontrol vises nu kun på Overblik, så de øvrige sidehoveder er mere rolige",
+        "Toolbox åbner nu som standard i 1409 × 1225 px og tilpasser fortsat højden sikkert på mindre skærme"
+      ],
+      "releaseUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/tag/v4.7.5"
+    },
+    {
       "version": "4.7.4",
       "publishedAt": "2026-08-03T19:54:54.000Z",
       "title": "a-round Version 4.7.4",
