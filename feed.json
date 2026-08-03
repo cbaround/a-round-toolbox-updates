@@ -1,9 +1,9 @@
 {
-  "version": "4.3.9",
-  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.3.9/a-round-Version-4.3.9-macOS.zip",
-  "sha256": "d8a3381a3ecfd5a06002f8956228f0fbed6c529e6758d0e3030a343a30944815",
-  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.3.9/a-round-Toolbox-4.3.9.pkg",
-  "desktopSha256": "3e2ba0b4cf7d398b463b771d6b46b7c401e3caac378c95575ad88922d8f7ddb6",
+  "version": "4.3.10",
+  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.3.10/a-round-Version-4.3.10-macOS.zip",
+  "sha256": "943804d492e62b245fe78ee8e2283227e8148a8ac630ea89a17322c19cd51cb3",
+  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.3.10/a-round-Toolbox-4.3.10.pkg",
+  "desktopSha256": "6f0a2a444fc2e16a5880dbfc4edfd44eb64cf057d61f757acc89f04d93657e41",
   "releaseNotes": [
     "Cloud-projekter kontrollerer nu Resolve-buildet før AI-lyd eller Exports starter",
     "Resolve 21.0.0.48 får en konkret opdateringsbesked i stedet for en sen render-job-fejl",
