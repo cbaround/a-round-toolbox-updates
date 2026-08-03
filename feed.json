@@ -1,16 +1,16 @@
 {
-  "version": "4.4.0",
-  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.4.0/a-round-Version-4.4.0-macOS.zip",
-  "sha256": "0430835ab9c7efd57316782cd0c7493e1ac5afc67d2a9e960a07fc373d3ef588",
-  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.4.0/a-round-Toolbox-4.4.0.pkg",
-  "desktopSha256": "00abe41416c8d0e2fde2eb8d021c606e20ad34debe8a5cf9cd6aa225bb3aa246",
+  "version": "4.5.0",
+  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.5.0/a-round-Version-4.5.0-macOS.zip",
+  "sha256": "3a2af058dfc58c5f3c35a3f69e86febd879c427f6d9ad5c5d06fda9033252b77",
+  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.5.0/a-round-Toolbox-4.5.0.pkg",
+  "desktopSha256": "dced3bb871a1a6fe009ea8a5c27afa444a04d01fd6ab8357ae4955c5417cd817",
   "releaseNotes": [
-    "Opdateringscenteret har nu separate faner til Seneste, Historik og Roadmap",
-    "Versionshistorikken viser alle publicerede udgivelser med dato, noter og link til den originale release",
-    "Roadmappet hentes separat og kan derfor opdateres uden at udgive en ny app-version",
-    "Historik og roadmap valideres, størrelsesbegrænses og falder tilbage til en inkluderet kopi, hvis nettet er nede",
-    "Publiceringsflowet vedligeholder fremover feed, versionshistorik og roadmap automatisk",
-    "Opdateringskontrollen kører nu altid i desktop-appen, så en ældre åben Resolve-proces ikke kan udløse en fejlagtig nedgradering"
+    "AI-undertekster har fået et nyt, roligere arbejdsområde med tydeligt timelinevalg, lydsporstabel og en samlet oversigt før transskribering",
+    "AI-undertekstoversigten opdateres nu direkte, når timeline, lydspor, sprog eller spornavn ændres",
+    "Nyt projekt har fået en samlet projektopsætning med bibliotek, strukturforhåndsvisning og tydelig kontrol før oprettelse",
+    "Overblik viser nu Resolve-, OpenAI- og versionsstatus tydeligere sammen med seneste kørsel og aktuelle release-noter",
+    "Navigation, sidehoveder, vinduesstørrelse og genvejen via app-logoet er gjort mere ensartede på tværs af værktøjerne",
+    "Busy-dialogen viser ikke længere den samme statusbesked to gange, og de nye hovedvisninger er dækket af layout- og navigationstests"
   ],
   "minimumResolveVersion": "21.0"
 }
