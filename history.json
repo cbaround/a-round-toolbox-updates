@@ -2,6 +2,16 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "4.7.6",
+      "publishedAt": "2026-08-03T20:22:13.000Z",
+      "title": "a-round Version 4.7.6",
+      "releaseNotes": [
+        "Opdateringspakken låser nu Toolbox til /Applications, så PackageKit ikke flytter appen til backupmappen under installationen",
+        "Versionskontrollen afsluttes nu korrekt efter en passwordfri opdatering uden den falske fejl om et uventet versionsnummer"
+      ],
+      "releaseUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/tag/v4.7.6"
+    },
+    {
       "version": "4.7.5",
       "publishedAt": "2026-08-03T20:11:42.000Z",
       "title": "a-round Version 4.7.5",
