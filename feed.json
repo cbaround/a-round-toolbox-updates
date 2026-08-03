@@ -1,15 +1,15 @@
 {
-  "version": "4.6.0",
-  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.6.0/a-round-Version-4.6.0-macOS.zip",
-  "sha256": "944b705b33e812ece8cca8435d839ba2c75a9abff56030d2fb29370384bfc43b",
-  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.6.0/a-round-Toolbox-4.6.0.pkg",
-  "desktopSha256": "5c8e19ed72c0d1dfbfd888b0f0355a00c9aa487e7734f9c63bfa34366dbfd19e",
+  "version": "4.7.0",
+  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.0/a-round-Version-4.7.0-macOS.zip",
+  "sha256": "114e1c51ae287a550ab0800675177d9f1b9a1ab3f9168670702c50bdacb87530",
+  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.0/a-round-Toolbox-4.7.0.pkg",
+  "desktopSha256": "93e30ad30af7d548c1bc139aab479a657594c3259d94cdfd3f8b7dd174692c54",
   "releaseNotes": [
-    "En signeret og stærkt begrænset macOS-hjælper gør kommende opdateringer passwordfri efter installationen af denne version",
-    "Hjælperen accepterer kun anmodninger fra den signerede a-round Toolbox og kun nyere pakker med det forventede Team ID og pakke-id",
-    "Checksum, Developer ID-signatur, versionsnummer og installationsresultat verificeres både før og inde i den privilegerede installation",
-    "Den tidligere app og Resolve-integration sikkerhedskopieres og gendannes automatisk, hvis installation eller efterkontrol fejler",
-    "Opdateringscenteret viser, om den passwordfri hjælper er aktiv, og falder sikkert tilbage til macOS' administratorprompt, hvis den mangler"
+    "Ny CSS-underteksteditor med live preview, genbrugelige presets og 16:9/9:16-forhåndsvisning",
+    "CSS-presets gemmes nu i Toolbox-indstillingerne og kan forbindes til en kalibreret native subtitle-profil i Resolve",
+    "Social timelines har fået et nyt kontroltrin med navn, opløsning, subtitle-profil og status for hvert valgt format",
+    "Kontrolrammer kan forhåndsvises før oprettelse og fjernes sikkert, når render queue skal klargøres",
+    "Native subtitle-stil anvendes gennem en verificeret DRT-rundtur med rollback og backup, hvis Resolve afviser et trin"
   ],
   "minimumResolveVersion": "21.0"
 }
