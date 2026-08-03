@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-08-03T16:30:00.000Z",
+  "items": [
+    {
+      "id": "passwordless-updater",
+      "title": "Opdateringer uden gentagen administratorkode",
+      "description": "En signeret og stærkt begrænset macOS-hjælper, der verificerer Team ID, pakke, checksum og installationsmål før opdatering.",
+      "status": "in_progress",
+      "targetVersion": "4.5.0",
+      "updatedAt": "2026-08-03T16:30:00.000Z"
+    },
+    {
+      "id": "cloud-regression-suite",
+      "title": "Automatisk Cloud-kompatibilitetstest",
+      "description": "Faste regressionstests af lydrendering, render queue, timeline-kopiering og projektoprettelse i lokale og Cloud-projekter.",
+      "status": "in_progress",
+      "targetVersion": "4.4.1",
+      "updatedAt": "2026-08-03T16:30:00.000Z"
+    },
+    {
+      "id": "subtitle-preset-editor",
+      "title": "Forbedret editor til subtitle-standarder",
+      "description": "Gør formatregler, presetvalg og sikre tekstområder nemmere at vedligeholde direkte i Toolboxen.",
+      "status": "next",
+      "targetVersion": null,
+      "updatedAt": "2026-08-03T16:30:00.000Z"
+    },
+    {
+      "id": "team-defaults",
+      "title": "Delte teamstandarder",
+      "description": "Eksportér, versionsstyr og synkronisér godkendte standardindstillinger mellem medarbejdernes Macs.",
+      "status": "later",
+      "targetVersion": null,
+      "updatedAt": "2026-08-03T16:30:00.000Z"
+    }
+  ]
+}
