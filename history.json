@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "releases": [
+    {
+      "version": "4.4.0",
+      "publishedAt": "2026-08-03T15:32:29.000Z",
+      "title": "a-round Version 4.4.0",
+      "releaseNotes": [
+        "Opdateringscenteret har nu separate faner til Seneste, Historik og Roadmap",
+        "Versionshistorikken viser alle publicerede udgivelser med dato, noter og link til den originale release",
+        "Roadmappet hentes separat og kan derfor opdateres uden at udgive en ny app-version",
+        "Historik og roadmap valideres, størrelsesbegrænses og falder tilbage til en inkluderet kopi, hvis nettet er nede",
+        "Publiceringsflowet vedligeholder fremover feed, versionshistorik og roadmap automatisk",
+        "Opdateringskontrollen kører nu altid i desktop-appen, så en ældre åben Resolve-proces ikke kan udløse en fejlagtig nedgradering"
+      ],
+      "releaseUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/tag/v4.4.0"
+    },
+    {
+      "version": "4.3.11",
+      "publishedAt": "2026-08-03T15:08:36.000Z",
+      "title": "a-round Version 4.3.11",
+      "releaseNotes": [
+        "Sidebaren følger nu arbejdsgangen: Overblik, Nyt projekt, AI-undertekster, Social timelines og Exports",
+        "Installationen bruger WorkflowIntegration.node fra den Resolve-version, der er installeret på den enkelte Mac",
+        "Reel- og Story-undertekster bruger det korrigerede native 9:16-preset",
+        "Nyt projekt stopper med en tydelig fejl i stedet for at hænge ved langsom Cloud-synkronisering"
+      ],
+      "releaseUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/tag/v4.3.11"
+    },
+    {
+      "version": "4.3.10",
+      "publishedAt": "2026-08-03T14:15:15.000Z",
+      "title": "a-round Version 4.3.10",
+      "releaseNotes": [],
+      "releaseUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/tag/v4.3.10"
+    },
+    {
+      "version": "4.3.9",
+      "publishedAt": "2026-08-03T12:18:22.000Z",
+      "title": "a-round Version 4.3.9",
+      "releaseNotes": [],
+      "releaseUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/tag/v4.3.9"
+    },
+    {
+      "version": "4.3.8",
+      "publishedAt": "2026-08-03T11:52:33.000Z",
+      "title": "a-round Version 4.3.8",
+      "releaseNotes": [],
+      "releaseUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/tag/v4.3.8"
+    },
+    {
+      "version": "4.3.6",
+      "publishedAt": "2026-08-03T10:43:41.000Z",
+      "title": "a-round Version 4.3.6",
+      "releaseNotes": [],
+      "releaseUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/tag/v4.3.6"
+    },
+    {
+      "version": "4.3.5",
+      "publishedAt": "2026-08-03T10:31:51.000Z",
+      "title": "a-round Version 4.3.5",
+      "releaseNotes": [],
+      "releaseUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/tag/v4.3.5"
+    },
+    {
+      "version": "4.3.4",
+      "publishedAt": "2026-08-03T09:58:01.000Z",
+      "title": "a-round Version 4.3.4",
+      "releaseNotes": [],
+      "releaseUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/tag/v4.3.4"
+    },
+    {
+      "version": "4.3.3",
+      "publishedAt": "2026-07-31T16:34:30.000Z",
+      "title": "a-round Version 4.3.3",
+      "releaseNotes": [],
+      "releaseUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/tag/v4.3.3"
+    },
+    {
+      "version": "4.3.2",
+      "publishedAt": "2026-07-31T16:14:18.000Z",
+      "title": "a-round Version 4.3.2",
+      "releaseNotes": [],
+      "releaseUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/tag/v4.3.2"
+    },
+    {
+      "version": "4.3.1",
+      "publishedAt": "2026-07-31T16:07:51.000Z",
+      "title": "a-round Version 4.3.1",
+      "releaseNotes": [],
+      "releaseUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/tag/v4.3.1"
+    },
+    {
+      "version": "4.3.0",
+      "publishedAt": "2026-07-31T16:01:51.000Z",
+      "title": "a-round Version 4.3.0",
+      "releaseNotes": [],
+      "releaseUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/tag/v4.3.0"
+    },
+    {
+      "version": "4.2.1",
+      "publishedAt": "2026-07-31T14:02:44.000Z",
+      "title": "a-round Version 4.2.1",
+      "releaseNotes": [],
+      "releaseUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/tag/v4.2.1"
+    },
+    {
+      "version": "4.2.0",
+      "publishedAt": "2026-07-31T13:59:00.000Z",
+      "title": "a-round Version 4.2.0",
+      "releaseNotes": [],
+      "releaseUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/tag/v4.2.0"
+    },
+    {
+      "version": "4.1.5",
+      "publishedAt": "2026-07-31T13:47:57.000Z",
+      "title": "a-round Version 4.1.5",
+      "releaseNotes": [],
+      "releaseUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/tag/v4.1.5"
+    },
+    {
+      "version": "4.1.4",
+      "publishedAt": "2026-07-31T13:43:16.000Z",
+      "title": "a-round Version 4.1.4",
+      "releaseNotes": [],
+      "releaseUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/tag/v4.1.4"
+    },
+    {
+      "version": "4.1.3",
+      "publishedAt": "2026-07-31T13:38:45.000Z",
+      "title": "a-round Version 4.1.3",
+      "releaseNotes": [],
+      "releaseUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/tag/v4.1.3"
+    }
+  ]
+}
