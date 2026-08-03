@@ -3,7 +3,7 @@
   "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.3.4/a-round-Version-4.3.4-macOS.zip",
   "sha256": "0604e86172e3a1bacf595e027e987153e7feac6125ac13ee2842b1c4162b367d",
   "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.3.4/a-round-Toolbox-4.3.4.pkg",
-  "desktopSha256": "0d22e0ed4658d617ef5b02c0377aa53b877a772155477c52501a0f046a641b47",
+  "desktopSha256": "1d483c83524a58c94b9c33f4bdb35ac60d884a1ae729d9dceecb5aa868129533",
   "releaseNotes": [
     "Cloud-projekter med én timeline aktiverer nu automatisk den timeline",
     "AI-undertekster viser lydsporene, så snart den valgte timeline er aktiv",
