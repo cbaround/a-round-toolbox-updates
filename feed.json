@@ -1,15 +1,13 @@
 {
-  "version": "4.7.0",
-  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.0/a-round-Version-4.7.0-macOS.zip",
-  "sha256": "114e1c51ae287a550ab0800675177d9f1b9a1ab3f9168670702c50bdacb87530",
-  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.0/a-round-Toolbox-4.7.0.pkg",
-  "desktopSha256": "93e30ad30af7d548c1bc139aab479a657594c3259d94cdfd3f8b7dd174692c54",
+  "version": "4.7.1",
+  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.1/a-round-Version-4.7.1-macOS.zip",
+  "sha256": "8471955f441e30f1e96550394d40908c06f8a9e10ceb5a741dde19c64ac72352",
+  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.1/a-round-Toolbox-4.7.1.pkg",
+  "desktopSha256": "cd7845640836b171a019bcfc0f842ffdc51bffdd56cdd1e9235c7099df0c822d",
   "releaseNotes": [
-    "Ny CSS-underteksteditor med live preview, genbrugelige presets og 16:9/9:16-forhåndsvisning",
-    "CSS-presets gemmes nu i Toolbox-indstillingerne og kan forbindes til en kalibreret native subtitle-profil i Resolve",
-    "Social timelines har fået et nyt kontroltrin med navn, opløsning, subtitle-profil og status for hvert valgt format",
-    "Kontrolrammer kan forhåndsvises før oprettelse og fjernes sikkert, når render queue skal klargøres",
-    "Native subtitle-stil anvendes gennem en verificeret DRT-rundtur med rollback og backup, hvis Resolve afviser et trin"
+    "Den passwordfri opdateringshjælper identificerer nu Toolbox via macOS' sikre socket-audit-token",
+    "Hvis helperens klientkontrol ikke kan gennemføres, falder opdateringen sikkert tilbage til macOS' administratorprompt",
+    "Pakkesignatur, checksum, version og Team ID kontrolleres fortsat før installation"
   ],
   "minimumResolveVersion": "21.0"
 }
