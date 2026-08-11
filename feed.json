@@ -1,11 +1,12 @@
 {
-  "version": "4.7.7",
-  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.7/a-round-Version-4.7.7-macOS.zip",
-  "sha256": "64ecc8c1734ef15ce2aa2d3f86f0a7614fc4d5be2c4cb071329f9663d8e0dbed",
-  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.7/a-round-Toolbox-4.7.7.pkg",
-  "desktopSha256": "d53f7370d9825ec309f955a1645495006e02f4a27924718cf8f32b940529c2e1",
+  "version": "4.7.8",
+  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.8/a-round-Version-4.7.8-macOS.zip",
+  "sha256": "a6a8b720e77998a887a0c8b29626e89575fbe7b39093cbeefecf9b9d7e2bed96",
+  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.8/a-round-Toolbox-4.7.8.pkg",
+  "desktopSha256": "dc2bbe9549814e298949fec392f688335c4e8be3c8415003c0e446628574353b",
   "releaseNotes": [
-    "Skillelinjen under Miljø er fjernet fra Aktuelt projekt, så overgangen til Aktive indstillinger står renere"
+    "En allerede fungerende Resolve-bro afvises ikke længere på grund af en unødigt streng filkontrol, så lydrenderen bliver på den normale Cloud-vej",
+    "Toolbox viser nu det valgte antal lydspor og bruger et mere realistisk tidsestimat; ikke-valgte spor forbliver slået fra under renderingen"
   ],
   "minimumResolveVersion": "21.0"
 }
