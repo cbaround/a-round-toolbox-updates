@@ -1,12 +1,13 @@
 {
-  "version": "4.7.8",
-  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.8/a-round-Version-4.7.8-macOS.zip",
-  "sha256": "a6a8b720e77998a887a0c8b29626e89575fbe7b39093cbeefecf9b9d7e2bed96",
-  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.8/a-round-Toolbox-4.7.8.pkg",
-  "desktopSha256": "dc2bbe9549814e298949fec392f688335c4e8be3c8415003c0e446628574353b",
+  "version": "4.7.9",
+  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.9/a-round-Version-4.7.9-macOS.zip",
+  "sha256": "a551b58f4bca7e8d58ea43b9816e43dc3ebdbb4e8ca91dae5b7b1dd8482a5a4b",
+  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.9/a-round-Toolbox-4.7.9.pkg",
+  "desktopSha256": "df9d1a48f96f454225df2c7fcca0d7f9753d6ce96284386796fdd6fd1e18dc6f",
   "releaseNotes": [
-    "En allerede fungerende Resolve-bro afvises ikke længere på grund af en unødigt streng filkontrol, så lydrenderen bliver på den normale Cloud-vej",
-    "Toolbox viser nu det valgte antal lydspor og bruger et mere realistisk tidsestimat; ikke-valgte spor forbliver slået fra under renderingen"
+    "Toolbox bruger nu den indlejrede Resolve-bro direkte ved opstart, så en fungerende forbindelse ikke længere vises som ‘Ikke forbundet’, når ekstern scripting er slået fra",
+    "AI-lydrender og den afsluttende native undertekstimport bruger nu Workflow-broen som primær motor og kræver derfor ikke en separat Resolve API-forbindelse",
+    "Den eksterne kompatibilitetsmotor er bevaret som reserve og genprøver kortvarige API-opstartsfejl automatisk"
   ],
   "minimumResolveVersion": "21.0"
 }
