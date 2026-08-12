@@ -2,6 +2,17 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "4.7.14",
+      "publishedAt": "2026-08-12T12:09:58.000Z",
+      "title": "a-round Version 4.7.14",
+      "releaseNotes": [
+        "Send bug spørger nu efter reproduktionstrin, problemområde, hyppighed og hvor meget fejlen blokerer arbejdet",
+        "Medarbejderen kan aktivt vedlægge et forhåndsvist screenshot af DaVinci Resolve sammen med Toolbox-billedet",
+        "Sentry modtager en renset, Codex-klar opgave med miljø, teknisk kontekst og acceptkriterier"
+      ],
+      "releaseUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/tag/v4.7.14"
+    },
+    {
       "version": "4.7.13",
       "publishedAt": "2026-08-12T11:48:02.000Z",
       "title": "a-round Version 4.7.13",
