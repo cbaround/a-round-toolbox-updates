@@ -1,13 +1,13 @@
 {
-  "version": "4.7.11",
-  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.11/a-round-Version-4.7.11-macOS.zip",
-  "sha256": "13592550e4444951e5e2a4eb75dc18678584e9c13084c7f2f696d156660996d3",
-  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.11/a-round-Toolbox-4.7.11.pkg",
-  "desktopSha256": "eeb66f975687aac1238847c8b9a3fde124b1a7a010f80c4e9a3aad77de1d3684",
+  "version": "4.7.12",
+  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.12/a-round-Version-4.7.12-macOS.zip",
+  "sha256": "901620fd2875c9e078f9c953a7d7f14f12c7074da5ae1a6188bda88f44c6f935",
+  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.12/a-round-Toolbox-4.7.12.pkg",
+  "desktopSha256": "d72fdca4602fb6c9e2a9f842477a6595d2113418e3cbcf810a57febe3840e357",
   "releaseNotes": [
-    "Medarbejdere kan nu sende en bugrapport direkte fra Toolbox via den nye Send bug-knap",
-    "Rapporten samler renset teknisk diagnostik og et valgfrit screenshot, så projekt-, timeline-, nøgle- og filoplysninger ikke sendes utilsigtet",
-    "Bugrapporter lander i en privat Sentry-kø, hvor de kan gennemgås sikkert med Codex uden automatisk at ændre eller udgive appen"
+    "AI-undertekster genforsøger nu valg af lydspor i Cloud-projekter og opdaterer Media Pool, indtil Resolve har bekræftet den nye sporstatus",
+    "Toolbox gendanner de oprindelige lydspor sikkert efter AI-lydrenderen, også når Cloud-synkroniseringen er forsinket",
+    "Opdateringskontrollen omgår nu GitHubs korte feed-cache, så nye versioner bliver synlige med det samme"
   ],
   "minimumResolveVersion": "21.0"
 }
