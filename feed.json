@@ -1,13 +1,13 @@
 {
-  "version": "4.7.10",
-  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.10/a-round-Version-4.7.10-macOS.zip",
-  "sha256": "1ece54e5103d3292bb43a07c269c01cea64a701975f8404c8e79175228184c65",
-  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.10/a-round-Toolbox-4.7.10.pkg",
-  "desktopSha256": "125cfcb44a14474b6fc4fcb8947b26df49be054599398d7a51acff210c8b4beb",
+  "version": "4.7.11",
+  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.11/a-round-Version-4.7.11-macOS.zip",
+  "sha256": "13592550e4444951e5e2a4eb75dc18678584e9c13084c7f2f696d156660996d3",
+  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.11/a-round-Toolbox-4.7.11.pkg",
+  "desktopSha256": "eeb66f975687aac1238847c8b9a3fde124b1a7a010f80c4e9a3aad77de1d3684",
   "releaseNotes": [
-    "Native Cloud-lydrender afviser nu Resolve-værdien false korrekt i stedet for at behandle den som et render-job-id",
-    "Hvis Resolve endnu ikke har initialiseret render queue, opdaterer Toolbox Media Pool, åbner Deliver én gang og forsøger automatisk igen",
-    "Toolbox gendanner den oprindelige Resolve-side efter genforsøget og viser fremover den konkrete fejl direkte i Seneste resultat"
+    "Medarbejdere kan nu sende en bugrapport direkte fra Toolbox via den nye Send bug-knap",
+    "Rapporten samler renset teknisk diagnostik og et valgfrit screenshot, så projekt-, timeline-, nøgle- og filoplysninger ikke sendes utilsigtet",
+    "Bugrapporter lander i en privat Sentry-kø, hvor de kan gennemgås sikkert med Codex uden automatisk at ændre eller udgive appen"
   ],
   "minimumResolveVersion": "21.0"
 }
