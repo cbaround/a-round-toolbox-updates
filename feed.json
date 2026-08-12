@@ -1,13 +1,13 @@
 {
-  "version": "4.7.13",
-  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.13/a-round-Version-4.7.13-macOS.zip",
-  "sha256": "fee440bfb8d492b199af38fb290c52555cd833f70630861d852dd8ff9b889cfe",
-  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.13/a-round-Toolbox-4.7.13.pkg",
-  "desktopSha256": "cb7c117292cc617f3c69b076906d76f8bb6521dc1eae6b47204f48768f3fb120",
+  "version": "4.7.14",
+  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.14/a-round-Version-4.7.14-macOS.zip",
+  "sha256": "61777491a94e03e7b4fa162ddb1c4083fd9332fe66a73765d42b2ddc38dae016",
+  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.14/a-round-Toolbox-4.7.14.pkg",
+  "desktopSha256": "a417d1de6cc9053cf912cf6f875a8c0b6a638dfa04861c0a3a36d003301d9cb1",
   "releaseNotes": [
-    "AI-undertekstimporten afventer nu Resolves direkte Workflow-forbindelse, før DRT-eksporttypen læses",
-    "Promise-baserede Resolve-konstanter håndteres korrekt, så native undertekster kan importeres i Cloud-projekter",
-    "Hvis Resolve reelt ikke leverer DRT-understøttelse, stopper Toolbox fortsat sikkert uden at ændre den aktive timeline"
+    "Send bug spørger nu efter reproduktionstrin, problemområde, hyppighed og hvor meget fejlen blokerer arbejdet",
+    "Medarbejderen kan aktivt vedlægge et forhåndsvist screenshot af DaVinci Resolve sammen med Toolbox-billedet",
+    "Sentry modtager en renset, Codex-klar opgave med miljø, teknisk kontekst og acceptkriterier"
   ],
   "minimumResolveVersion": "21.0"
 }
