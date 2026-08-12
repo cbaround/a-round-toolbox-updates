@@ -2,6 +2,17 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "4.7.13",
+      "publishedAt": "2026-08-12T11:48:02.000Z",
+      "title": "a-round Version 4.7.13",
+      "releaseNotes": [
+        "AI-undertekstimporten afventer nu Resolves direkte Workflow-forbindelse, før DRT-eksporttypen læses",
+        "Promise-baserede Resolve-konstanter håndteres korrekt, så native undertekster kan importeres i Cloud-projekter",
+        "Hvis Resolve reelt ikke leverer DRT-understøttelse, stopper Toolbox fortsat sikkert uden at ændre den aktive timeline"
+      ],
+      "releaseUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/tag/v4.7.13"
+    },
+    {
       "version": "4.7.12",
       "publishedAt": "2026-08-12T11:30:06.000Z",
       "title": "a-round Version 4.7.12",
