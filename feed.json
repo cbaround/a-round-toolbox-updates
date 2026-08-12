@@ -1,13 +1,13 @@
 {
-  "version": "4.7.12",
-  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.12/a-round-Version-4.7.12-macOS.zip",
-  "sha256": "901620fd2875c9e078f9c953a7d7f14f12c7074da5ae1a6188bda88f44c6f935",
-  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.12/a-round-Toolbox-4.7.12.pkg",
-  "desktopSha256": "d72fdca4602fb6c9e2a9f842477a6595d2113418e3cbcf810a57febe3840e357",
+  "version": "4.7.13",
+  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.13/a-round-Version-4.7.13-macOS.zip",
+  "sha256": "fee440bfb8d492b199af38fb290c52555cd833f70630861d852dd8ff9b889cfe",
+  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.13/a-round-Toolbox-4.7.13.pkg",
+  "desktopSha256": "cb7c117292cc617f3c69b076906d76f8bb6521dc1eae6b47204f48768f3fb120",
   "releaseNotes": [
-    "AI-undertekster genforsøger nu valg af lydspor i Cloud-projekter og opdaterer Media Pool, indtil Resolve har bekræftet den nye sporstatus",
-    "Toolbox gendanner de oprindelige lydspor sikkert efter AI-lydrenderen, også når Cloud-synkroniseringen er forsinket",
-    "Opdateringskontrollen omgår nu GitHubs korte feed-cache, så nye versioner bliver synlige med det samme"
+    "AI-undertekstimporten afventer nu Resolves direkte Workflow-forbindelse, før DRT-eksporttypen læses",
+    "Promise-baserede Resolve-konstanter håndteres korrekt, så native undertekster kan importeres i Cloud-projekter",
+    "Hvis Resolve reelt ikke leverer DRT-understøttelse, stopper Toolbox fortsat sikkert uden at ændre den aktive timeline"
   ],
   "minimumResolveVersion": "21.0"
 }
