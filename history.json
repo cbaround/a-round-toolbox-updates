@@ -2,6 +2,17 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "4.7.12",
+      "publishedAt": "2026-08-12T11:30:06.000Z",
+      "title": "a-round Version 4.7.12",
+      "releaseNotes": [
+        "AI-undertekster genforsøger nu valg af lydspor i Cloud-projekter og opdaterer Media Pool, indtil Resolve har bekræftet den nye sporstatus",
+        "Toolbox gendanner de oprindelige lydspor sikkert efter AI-lydrenderen, også når Cloud-synkroniseringen er forsinket",
+        "Opdateringskontrollen omgår nu GitHubs korte feed-cache, så nye versioner bliver synlige med det samme"
+      ],
+      "releaseUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/tag/v4.7.12"
+    },
+    {
       "version": "4.7.11",
       "publishedAt": "2026-08-12T11:10:28.000Z",
       "title": "a-round Version 4.7.11",
