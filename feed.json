@@ -1,13 +1,13 @@
 {
-  "version": "4.7.14",
-  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.14/a-round-Version-4.7.14-macOS.zip",
-  "sha256": "61777491a94e03e7b4fa162ddb1c4083fd9332fe66a73765d42b2ddc38dae016",
-  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.14/a-round-Toolbox-4.7.14.pkg",
-  "desktopSha256": "a417d1de6cc9053cf912cf6f875a8c0b6a638dfa04861c0a3a36d003301d9cb1",
+  "version": "4.7.15",
+  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.15/a-round-Version-4.7.15-macOS.zip",
+  "sha256": "93e8a0c0eb84542062d239fe413079f8618cbaae4def0422e16b8d439bbf8c1a",
+  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.15/a-round-Toolbox-4.7.15.pkg",
+  "desktopSha256": "5c9532798dd1fe417a3f15020fd25b709ce868707891669f9a67cb4b4cbdc14b",
   "releaseNotes": [
-    "Send bug spørger nu efter reproduktionstrin, problemområde, hyppighed og hvor meget fejlen blokerer arbejdet",
-    "Medarbejderen kan aktivt vedlægge et forhåndsvist screenshot af DaVinci Resolve sammen med Toolbox-billedet",
-    "Sentry modtager en renset, Codex-klar opgave med miljø, teknisk kontekst og acceptkriterier"
+    "Cloud-lydexporten accepterer nu Resolves dokumenterede sporvalg, selv når statusaflæsningen stadig viser den gamle A2-tilstand",
+    "Kun den valgte tale-lyd kan fortsætte til render, mens en reel afvisning fra Resolve fortsat stopper sikkert",
+    "Send bug bruger nu fejlen fra seneste AI-kørsel i Sentry-titlen, også når rapporten sendes efter en genstart"
   ],
   "minimumResolveVersion": "21.0"
 }
