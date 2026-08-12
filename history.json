@@ -2,6 +2,17 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "4.7.10",
+      "publishedAt": "2026-08-12T08:53:32.000Z",
+      "title": "a-round Version 4.7.10",
+      "releaseNotes": [
+        "Native Cloud-lydrender afviser nu Resolve-værdien false korrekt i stedet for at behandle den som et render-job-id",
+        "Hvis Resolve endnu ikke har initialiseret render queue, opdaterer Toolbox Media Pool, åbner Deliver én gang og forsøger automatisk igen",
+        "Toolbox gendanner den oprindelige Resolve-side efter genforsøget og viser fremover den konkrete fejl direkte i Seneste resultat"
+      ],
+      "releaseUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/tag/v4.7.10"
+    },
+    {
       "version": "4.7.9",
       "publishedAt": "2026-08-12T08:14:24.000Z",
       "title": "a-round Version 4.7.9",
