@@ -2,6 +2,17 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "4.7.15",
+      "publishedAt": "2026-08-12T12:29:07.000Z",
+      "title": "a-round Version 4.7.15",
+      "releaseNotes": [
+        "Cloud-lydexporten accepterer nu Resolves dokumenterede sporvalg, selv når statusaflæsningen stadig viser den gamle A2-tilstand",
+        "Kun den valgte tale-lyd kan fortsætte til render, mens en reel afvisning fra Resolve fortsat stopper sikkert",
+        "Send bug bruger nu fejlen fra seneste AI-kørsel i Sentry-titlen, også når rapporten sendes efter en genstart"
+      ],
+      "releaseUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/tag/v4.7.15"
+    },
+    {
       "version": "4.7.14",
       "publishedAt": "2026-08-12T12:09:58.000Z",
       "title": "a-round Version 4.7.14",
