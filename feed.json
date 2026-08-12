@@ -1,13 +1,13 @@
 {
-  "version": "4.7.9",
-  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.9/a-round-Version-4.7.9-macOS.zip",
-  "sha256": "a551b58f4bca7e8d58ea43b9816e43dc3ebdbb4e8ca91dae5b7b1dd8482a5a4b",
-  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.9/a-round-Toolbox-4.7.9.pkg",
-  "desktopSha256": "df9d1a48f96f454225df2c7fcca0d7f9753d6ce96284386796fdd6fd1e18dc6f",
+  "version": "4.7.10",
+  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.10/a-round-Version-4.7.10-macOS.zip",
+  "sha256": "1ece54e5103d3292bb43a07c269c01cea64a701975f8404c8e79175228184c65",
+  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.10/a-round-Toolbox-4.7.10.pkg",
+  "desktopSha256": "125cfcb44a14474b6fc4fcb8947b26df49be054599398d7a51acff210c8b4beb",
   "releaseNotes": [
-    "Toolbox bruger nu den indlejrede Resolve-bro direkte ved opstart, så en fungerende forbindelse ikke længere vises som ‘Ikke forbundet’, når ekstern scripting er slået fra",
-    "AI-lydrender og den afsluttende native undertekstimport bruger nu Workflow-broen som primær motor og kræver derfor ikke en separat Resolve API-forbindelse",
-    "Den eksterne kompatibilitetsmotor er bevaret som reserve og genprøver kortvarige API-opstartsfejl automatisk"
+    "Native Cloud-lydrender afviser nu Resolve-værdien false korrekt i stedet for at behandle den som et render-job-id",
+    "Hvis Resolve endnu ikke har initialiseret render queue, opdaterer Toolbox Media Pool, åbner Deliver én gang og forsøger automatisk igen",
+    "Toolbox gendanner den oprindelige Resolve-side efter genforsøget og viser fremover den konkrete fejl direkte i Seneste resultat"
   ],
   "minimumResolveVersion": "21.0"
 }
