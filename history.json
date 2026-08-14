@@ -2,6 +2,17 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "4.7.16",
+      "publishedAt": "2026-08-14T10:46:31.000Z",
+      "title": "a-round Version 4.7.16",
+      "releaseNotes": [
+        "Social timelines låses ikke længere af andre Export-timelines og opretter kun de valgte formater, der faktisk mangler",
+        "AI-undertekstimporten placerer nu hvert cue på den originale timelines absolutte frame og kontrollerer hele sporet efter Cloud-synkronisering",
+        "Send bug vedlægger fremover importmotor og forventede, faktiske og maksimale frame-afvigelser til Sentry"
+      ],
+      "releaseUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/tag/v4.7.16"
+    },
+    {
       "version": "4.7.15",
       "publishedAt": "2026-08-12T12:29:07.000Z",
       "title": "a-round Version 4.7.15",
