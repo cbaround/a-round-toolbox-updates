@@ -1,13 +1,13 @@
 {
-  "version": "4.7.15",
-  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.15/a-round-Version-4.7.15-macOS.zip",
-  "sha256": "93e8a0c0eb84542062d239fe413079f8618cbaae4def0422e16b8d439bbf8c1a",
-  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.15/a-round-Toolbox-4.7.15.pkg",
-  "desktopSha256": "5c9532798dd1fe417a3f15020fd25b709ce868707891669f9a67cb4b4cbdc14b",
+  "version": "4.7.16",
+  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.16/a-round-Version-4.7.16-macOS.zip",
+  "sha256": "38bb1d87a6731d31558d1785ebb44379d14fc276816c2c9f00d41cfce89277b0",
+  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.16/a-round-Toolbox-4.7.16.pkg",
+  "desktopSha256": "50efcf229cffab6b8f8007f6778d534b5fdc6b35cbfe8b68589e2741059829f0",
   "releaseNotes": [
-    "Cloud-lydexporten accepterer nu Resolves dokumenterede sporvalg, selv når statusaflæsningen stadig viser den gamle A2-tilstand",
-    "Kun den valgte tale-lyd kan fortsætte til render, mens en reel afvisning fra Resolve fortsat stopper sikkert",
-    "Send bug bruger nu fejlen fra seneste AI-kørsel i Sentry-titlen, også når rapporten sendes efter en genstart"
+    "Social timelines låses ikke længere af andre Export-timelines og opretter kun de valgte formater, der faktisk mangler",
+    "AI-undertekstimporten placerer nu hvert cue på den originale timelines absolutte frame og kontrollerer hele sporet efter Cloud-synkronisering",
+    "Send bug vedlægger fremover importmotor og forventede, faktiske og maksimale frame-afvigelser til Sentry"
   ],
   "minimumResolveVersion": "21.0"
 }
