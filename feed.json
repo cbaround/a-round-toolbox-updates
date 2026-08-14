@@ -1,13 +1,13 @@
 {
-  "version": "4.7.16",
-  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.16/a-round-Version-4.7.16-macOS.zip",
-  "sha256": "38bb1d87a6731d31558d1785ebb44379d14fc276816c2c9f00d41cfce89277b0",
-  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.16/a-round-Toolbox-4.7.16.pkg",
-  "desktopSha256": "50efcf229cffab6b8f8007f6778d534b5fdc6b35cbfe8b68589e2741059829f0",
+  "version": "4.7.17",
+  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.17/a-round-Version-4.7.17-macOS.zip",
+  "sha256": "baa78216d296880c7609d0e0dae8c642a1d269feb10ffd78b27cec422de15521",
+  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.17/a-round-Toolbox-4.7.17.pkg",
+  "desktopSha256": "8037088d1e5c0b65e59786952ad2aceab333937b8aaac984646f6b03a7ffa03e",
   "releaseNotes": [
-    "Social timelines låses ikke længere af andre Export-timelines og opretter kun de valgte formater, der faktisk mangler",
-    "AI-undertekstimporten placerer nu hvert cue på den originale timelines absolutte frame og kontrollerer hele sporet efter Cloud-synkronisering",
-    "Send bug vedlægger fremover importmotor og forventede, faktiske og maksimale frame-afvigelser til Sentry"
+    "16:9-timelines bevarer nu altid den originale framing og kører aldrig AI Smart Reframe",
+    "Smart Reframe springer klip med Fusion, tracking, keyframes eller ændret framing sikkert over",
+    "Oversprungne klip får en blå Resolve-markør med årsagen, så de er nemme at finde og kontrollere"
   ],
   "minimumResolveVersion": "21.0"
 }
