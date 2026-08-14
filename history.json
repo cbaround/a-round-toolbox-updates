@@ -2,6 +2,17 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "4.7.17",
+      "publishedAt": "2026-08-14T13:03:00.000Z",
+      "title": "a-round Version 4.7.17",
+      "releaseNotes": [
+        "16:9-timelines bevarer nu altid den originale framing og kører aldrig AI Smart Reframe",
+        "Smart Reframe springer klip med Fusion, tracking, keyframes eller ændret framing sikkert over",
+        "Oversprungne klip får en blå Resolve-markør med årsagen, så de er nemme at finde og kontrollere"
+      ],
+      "releaseUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/tag/v4.7.17"
+    },
+    {
       "version": "4.7.16",
       "publishedAt": "2026-08-14T10:46:31.000Z",
       "title": "a-round Version 4.7.16",
