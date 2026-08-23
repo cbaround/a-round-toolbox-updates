@@ -1,13 +1,13 @@
 {
-  "version": "4.7.17",
-  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.17/a-round-Version-4.7.17-macOS.zip",
-  "sha256": "baa78216d296880c7609d0e0dae8c642a1d269feb10ffd78b27cec422de15521",
-  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.17/a-round-Toolbox-4.7.17.pkg",
-  "desktopSha256": "8037088d1e5c0b65e59786952ad2aceab333937b8aaac984646f6b03a7ffa03e",
+  "version": "4.7.18",
+  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.18/a-round-Version-4.7.18-macOS.zip",
+  "sha256": "d36dbc1b4eb1793b26fd374c4d0a4360ca01a1e160d8f9a08f09b837f89a681d",
+  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.18/a-round-Toolbox-4.7.18.pkg",
+  "desktopSha256": "bcd582055fcfd81f4c80c86c9473d2c5c82a4e99df9fbea71a2f611b11ef7166",
   "releaseNotes": [
-    "16:9-timelines bevarer nu altid den originale framing og kører aldrig AI Smart Reframe",
-    "Smart Reframe springer klip med Fusion, tracking, keyframes eller ændret framing sikkert over",
-    "Oversprungne klip får en blå Resolve-markør med årsagen, så de er nemme at finde og kontrollere"
+    "AI-undertekster springer nu lydløse dele før talen sikkert over, så materiale langt inde på tidslinjen kan behandles normalt",
+    "Underteksterne bevarer den oprindelige timeline-placering, selv når de første lyddele ikke indeholder tale",
+    "Helt lydløse valgte spor giver nu en tydelig besked, og Send bug registrerer hvor mange lyddele der blev sprunget over"
   ],
   "minimumResolveVersion": "21.0"
 }
