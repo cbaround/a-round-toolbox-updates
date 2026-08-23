@@ -2,6 +2,17 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "4.7.18",
+      "publishedAt": "2026-08-23T15:06:09.000Z",
+      "title": "a-round Version 4.7.18",
+      "releaseNotes": [
+        "AI-undertekster springer nu lydløse dele før talen sikkert over, så materiale langt inde på tidslinjen kan behandles normalt",
+        "Underteksterne bevarer den oprindelige timeline-placering, selv når de første lyddele ikke indeholder tale",
+        "Helt lydløse valgte spor giver nu en tydelig besked, og Send bug registrerer hvor mange lyddele der blev sprunget over"
+      ],
+      "releaseUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/tag/v4.7.18"
+    },
+    {
       "version": "4.7.17",
       "publishedAt": "2026-08-14T13:03:00.000Z",
       "title": "a-round Version 4.7.17",
