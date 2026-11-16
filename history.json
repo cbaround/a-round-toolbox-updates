@@ -2,6 +2,16 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "4.7.20",
+      "publishedAt": "2026-11-16T18:44:26.000Z",
+      "title": "a-round Version 4.7.20",
+      "releaseNotes": [
+        "Social Timeline bevarer det aktive projekthåndtag mellem Workflow Integration og Lua og synkroniserer projektbiblioteket før oprettelse",
+        "Forhindrer oprettelse i et forkert projekt, hvis Resolve-projektet ændres under kørslen"
+      ],
+      "releaseUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/tag/v4.7.20"
+    },
+    {
       "version": "4.7.19",
       "publishedAt": "2026-11-16T18:08:06.000Z",
       "title": "a-round Version 4.7.19",
