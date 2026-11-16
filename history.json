@@ -2,6 +2,15 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "4.7.21",
+      "publishedAt": "2026-11-16T18:56:42.000Z",
+      "title": "a-round Version 4.7.21",
+      "releaseNotes": [
+        "Social Timeline åbner nu projektet i den korrekte projektmappe og bruger Resolves Cloud-åbning, hvis almindelig projektåbning ikke virker"
+      ],
+      "releaseUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/tag/v4.7.21"
+    },
+    {
       "version": "4.7.20",
       "publishedAt": "2026-11-16T18:44:26.000Z",
       "title": "a-round Version 4.7.20",
