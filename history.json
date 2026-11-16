@@ -2,6 +2,15 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "4.7.19",
+      "publishedAt": "2026-11-16T18:08:06.000Z",
+      "title": "a-round Version 4.7.19",
+      "releaseNotes": [
+        "Social Timeline viser nu status og fejl direkte ved oprettelsesknappen, så en afvist Resolve-operation ikke længere ser ud til at gøre ingenting"
+      ],
+      "releaseUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/tag/v4.7.19"
+    },
+    {
       "version": "4.7.18",
       "publishedAt": "2026-08-23T15:06:09.000Z",
       "title": "a-round Version 4.7.18",
