@@ -1,11 +1,11 @@
 {
-  "version": "4.7.21",
-  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.21/a-round-Version-4.7.21-macOS.zip",
-  "sha256": "31f69fbd69f74944395b4c40eb4e92b3a7c9adbf2a1fb738df92d46f912c1d13",
-  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.21/a-round-Toolbox-4.7.21.pkg",
-  "desktopSha256": "e7cf7c1c1d1b7387b54886e056cacececbaf719bbd14b457a314781b1fe7966c",
+  "version": "4.7.22",
+  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.22/a-round-Version-4.7.22-macOS.zip",
+  "sha256": "fd81d4575e511b8c9e41d16c42eb9ce25e4d5fda2357190bd0c1f5176301c81c",
+  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.22/a-round-Toolbox-4.7.22.pkg",
+  "desktopSha256": "ffc351db00d0e23d91f623be56989844b624924e0bb7dd05a66a0f827a46b1b7",
   "releaseNotes": [
-    "Social Timeline åbner nu projektet i den korrekte projektmappe og bruger Resolves Cloud-åbning, hvis almindelig projektåbning ikke virker"
+    "Social Timeline bruger nu den eksisterende Workflow Integration-forbindelse til Resolve i stedet for at genåbne projekt og Cloud-mappe i en separat Lua-session"
   ],
   "minimumResolveVersion": "21.0"
 }
