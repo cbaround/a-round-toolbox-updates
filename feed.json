@@ -1,13 +1,11 @@
 {
-  "version": "4.7.18",
-  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.18/a-round-Version-4.7.18-macOS.zip",
-  "sha256": "d36dbc1b4eb1793b26fd374c4d0a4360ca01a1e160d8f9a08f09b837f89a681d",
-  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.18/a-round-Toolbox-4.7.18.pkg",
-  "desktopSha256": "bcd582055fcfd81f4c80c86c9473d2c5c82a4e99df9fbea71a2f611b11ef7166",
+  "version": "4.7.19",
+  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.19/a-round-Version-4.7.19-macOS.zip",
+  "sha256": "648fabf4920781ba565e4398a29ff68b86b81d438a60c982feee32ec036034ca",
+  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.19/a-round-Toolbox-4.7.19.pkg",
+  "desktopSha256": "b916ac5fcd3396392b36d0ff0399b60c193f13c4eb22ac77e2c3d484502bb58a",
   "releaseNotes": [
-    "AI-undertekster springer nu lydløse dele før talen sikkert over, så materiale langt inde på tidslinjen kan behandles normalt",
-    "Underteksterne bevarer den oprindelige timeline-placering, selv når de første lyddele ikke indeholder tale",
-    "Helt lydløse valgte spor giver nu en tydelig besked, og Send bug registrerer hvor mange lyddele der blev sprunget over"
+    "Social Timeline viser nu status og fejl direkte ved oprettelsesknappen, så en afvist Resolve-operation ikke længere ser ud til at gøre ingenting"
   ],
   "minimumResolveVersion": "21.0"
 }
