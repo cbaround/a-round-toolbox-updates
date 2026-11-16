@@ -1,11 +1,13 @@
 {
-  "version": "4.7.22",
-  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.22/a-round-Version-4.7.22-macOS.zip",
-  "sha256": "fd81d4575e511b8c9e41d16c42eb9ce25e4d5fda2357190bd0c1f5176301c81c",
-  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.22/a-round-Toolbox-4.7.22.pkg",
-  "desktopSha256": "ffc351db00d0e23d91f623be56989844b624924e0bb7dd05a66a0f827a46b1b7",
+  "version": "4.7.23",
+  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.23/a-round-Version-4.7.23-macOS.zip",
+  "sha256": "819da5fbcf5208e83d9647622d0cc8374ee1822990c3b78d216e84c7aa68028c",
+  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.23/a-round-Toolbox-4.7.23.pkg",
+  "desktopSha256": "897349cec5f781d3f213a33b52e1b9217b782d7da53db27be3d645ee248e6a7d",
   "releaseNotes": [
-    "Social Timeline bruger nu den eksisterende Workflow Integration-forbindelse til Resolve i stedet for at genåbne projekt og Cloud-mappe i en separat Lua-session"
+    "Social Timeline-forbindelsen er rettet og live-testet i Blackmagic Cloud: alle fem formater med undertekster, kontrolrammer og render-kø",
+    "Retter håndtering af Resolves native API-objekter og DRT-eksport i Resolve 21.1",
+    "Installationen fuldføres også, hvis macOS ikke kan starte den valgfrie opdateringshjælper; opdateringer bruger da administratorgodkendelse"
   ],
   "minimumResolveVersion": "21.0"
 }
