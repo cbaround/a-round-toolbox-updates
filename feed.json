@@ -1,11 +1,12 @@
 {
-  "version": "4.7.19",
-  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.19/a-round-Version-4.7.19-macOS.zip",
-  "sha256": "648fabf4920781ba565e4398a29ff68b86b81d438a60c982feee32ec036034ca",
-  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.19/a-round-Toolbox-4.7.19.pkg",
-  "desktopSha256": "b916ac5fcd3396392b36d0ff0399b60c193f13c4eb22ac77e2c3d484502bb58a",
+  "version": "4.7.20",
+  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.20/a-round-Version-4.7.20-macOS.zip",
+  "sha256": "5e10f0d0b4b130b05cd145a32e5726addec19afbcedf8e0ffc3edd0bb676c4d9",
+  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.20/a-round-Toolbox-4.7.20.pkg",
+  "desktopSha256": "05388f29717f485f6aff18849bb1cbb783a12e76fd670fb3508057b3079c1b75",
   "releaseNotes": [
-    "Social Timeline viser nu status og fejl direkte ved oprettelsesknappen, så en afvist Resolve-operation ikke længere ser ud til at gøre ingenting"
+    "Social Timeline bevarer det aktive projekthåndtag mellem Workflow Integration og Lua og synkroniserer projektbiblioteket før oprettelse",
+    "Forhindrer oprettelse i et forkert projekt, hvis Resolve-projektet ændres under kørslen"
   ],
   "minimumResolveVersion": "21.0"
 }
