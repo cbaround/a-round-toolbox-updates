@@ -2,6 +2,15 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "4.7.22",
+      "publishedAt": "2026-11-16T19:07:21.000Z",
+      "title": "a-round Version 4.7.22",
+      "releaseNotes": [
+        "Social Timeline bruger nu den eksisterende Workflow Integration-forbindelse til Resolve i stedet for at genåbne projekt og Cloud-mappe i en separat Lua-session"
+      ],
+      "releaseUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/tag/v4.7.22"
+    },
+    {
       "version": "4.7.21",
       "publishedAt": "2026-11-16T18:56:42.000Z",
       "title": "a-round Version 4.7.21",
