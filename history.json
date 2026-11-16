@@ -2,6 +2,17 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "version": "4.7.23",
+      "publishedAt": "2026-11-16T19:55:14.000Z",
+      "title": "a-round Version 4.7.23",
+      "releaseNotes": [
+        "Social Timeline-forbindelsen er rettet og live-testet i Blackmagic Cloud: alle fem formater med undertekster, kontrolrammer og render-kø",
+        "Retter håndtering af Resolves native API-objekter og DRT-eksport i Resolve 21.1",
+        "Installationen fuldføres også, hvis macOS ikke kan starte den valgfrie opdateringshjælper; opdateringer bruger da administratorgodkendelse"
+      ],
+      "releaseUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/tag/v4.7.23"
+    },
+    {
       "version": "4.7.22",
       "publishedAt": "2026-11-16T19:07:21.000Z",
       "title": "a-round Version 4.7.22",
