@@ -1,12 +1,11 @@
 {
-  "version": "4.7.20",
-  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.20/a-round-Version-4.7.20-macOS.zip",
-  "sha256": "5e10f0d0b4b130b05cd145a32e5726addec19afbcedf8e0ffc3edd0bb676c4d9",
-  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.20/a-round-Toolbox-4.7.20.pkg",
-  "desktopSha256": "05388f29717f485f6aff18849bb1cbb783a12e76fd670fb3508057b3079c1b75",
+  "version": "4.7.21",
+  "downloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.21/a-round-Version-4.7.21-macOS.zip",
+  "sha256": "31f69fbd69f74944395b4c40eb4e92b3a7c9adbf2a1fb738df92d46f912c1d13",
+  "desktopDownloadUrl": "https://github.com/cbaround/a-round-toolbox-updates/releases/download/v4.7.21/a-round-Toolbox-4.7.21.pkg",
+  "desktopSha256": "e7cf7c1c1d1b7387b54886e056cacececbaf719bbd14b457a314781b1fe7966c",
   "releaseNotes": [
-    "Social Timeline bevarer det aktive projekthåndtag mellem Workflow Integration og Lua og synkroniserer projektbiblioteket før oprettelse",
-    "Forhindrer oprettelse i et forkert projekt, hvis Resolve-projektet ændres under kørslen"
+    "Social Timeline åbner nu projektet i den korrekte projektmappe og bruger Resolves Cloud-åbning, hvis almindelig projektåbning ikke virker"
   ],
   "minimumResolveVersion": "21.0"
 }
